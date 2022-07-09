@@ -1,0 +1,8 @@
+div .ok:hover {
+  background-color: white;
+  opacity: 0.3;
+  transition: 0.2s;
+}
+a:hover{
+  color: black;
+}
